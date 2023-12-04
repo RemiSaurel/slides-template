@@ -31,5 +31,9 @@ src: ./pages/contents.md
 ---
 src: ./pages/subpage.md
 ---
+---
+---
+# Test
+<Counter/>
 
 
