@@ -1,3 +1,7 @@
+---
+title: Contents
+---
+
 # Contents
 
 <Toc />
